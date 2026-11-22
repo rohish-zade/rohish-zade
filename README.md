@@ -15,7 +15,7 @@ I'm a **Data Engineer with 5+ years of experience** designing, building, and opt
 
 I specialize in **migrating legacy workloads (Hadoop, Hive, DataStage, Talend) to modern Azure + Databricks architectures**, with a focus on performance, data quality, and automation. I've delivered for clients in **banking & financial services** and **healthcare (claims, pricing & reimbursement)**.
 
-- 💼 **Currently:** Data Engineer at **Next Pathway**, migrating DataStage ETL to Azure Databricks for a US healthcare client
+- 💼 **Currently:** Data Engineer at **Next Pathway**, migrating DataStage ETL to Azure for a US healthcare client
 - 🏦 **Previously:** Project Engineer at **Wipro**, building PySpark/ADF pipelines across 30+ source systems for a Tier-1 Canadian bank
 - 🎓 **Education:** B.E. in Computer Science & Engineering
 - ✍️ **Writing:** Data engineering notes on [Substack](https://substack.com/@rohishzade)
